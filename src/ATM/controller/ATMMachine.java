@@ -1,4 +1,4 @@
-package ATM.dao;
+package ATM.controller;
 
 import java.util.Scanner;
 
